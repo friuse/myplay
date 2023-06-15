@@ -176,17 +176,17 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 #KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/friuse/myplay/main/logo/beinsports.png", PREMIUM 1
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/friuse/myplay/main/logo/beinsports.png", BEIN PREMIUM 1
 #EXTVLCOPT:http-user-agent=ntuplay
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://ddh2.cdnhks.lol/ddh2/premium98/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/friuse/myplay/main/logo/beinsports.png", PREMIUM 2
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/friuse/myplay/main/logo/beinsports.png", BEIN PREMIUM 2
 #EXTVLCOPT:http-user-agent=ntuplay
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://ddh2.cdnhks.lol:443/ddh2/premium99/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/friuse/myplay/main/logo/beinsports.png", PREMIUM 3
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/friuse/myplay/main/logo/beinsports.png", BEIN PREMIUM 3
 #EXTVLCOPT:http-user-agent=ntuplay
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
 https://ddh2.cdnhks.lol:443/ddh2/premium100/tracks-v1a1/mono.m3u8
