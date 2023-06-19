@@ -33,7 +33,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/friuse/myplay/main/logo/trans7.png",TRANS7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -153,4 +152,4 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 group-title="" tvg-logo="https://i.ytimg.com/vi/fztup3_lkMY/maxresdefault.jpg", # PAK PRAPTO
 #EXTVLCOPT:http-user-agent=ntuplay
 #EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://ddy5.cdnhks.lol:443/ddy5/premium143/tracks-v1a1/mono.m3u8
+#https://ddy5.cdnhks.lol:443/ddy5/premium143/tracks-v1a1/mono.m3u8
